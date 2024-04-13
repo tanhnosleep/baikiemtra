@@ -1,0 +1,30 @@
+body { 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 85%;
+    color: white;
+    background-image: url(bg.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+h1 {     
+    font-size: 200%;
+    color: white;
+    text-align: center;    
+}
+h2{
+    text-align: center;
+}
+h6{
+    text-align: center;
+}
+.event{
+    background-color: blue;
+    color: white;
+}
+.ads{
+    background-color: green;
+    color: white;
+}
+a {
+    white-space: nowrap;
+  }
